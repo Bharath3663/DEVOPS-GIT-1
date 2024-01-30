@@ -18,3 +18,6 @@ git merge "branch name"
 git reset "commit id"
 git reset --hard"commit id"
 git reset --soft"commit id"
+git fetch
+git rm "file name"
+git blame "file name"
