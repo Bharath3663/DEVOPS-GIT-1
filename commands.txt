@@ -13,3 +13,8 @@ git branch
 git branch "branch name"
 git branch -d "branch name"
 git branch -D "branch name"
+git checkout "branch name" 
+git merge "branch name"
+git reset "commit id"
+git reset --hard"commit id"
+git reset --soft"commit id"
