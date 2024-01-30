@@ -46,7 +46,7 @@ docker
 qubernetes
 ansible
 teraform
-linex
+linux
 helm
 after devops in aws i would to learn about the topics
 EC2
