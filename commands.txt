@@ -33,3 +33,18 @@ my coaching center is in marthalli
 my trainer name is hari
 he has 12 years of exprience in coaching
 he has 17 years of exprience in working 
+topic i like to cover in devops is 
+git 
+github
+maven
+tomcat
+jenkins
+sonarcube
+nexus
+nginx
+docker
+qubernetes
+ansible
+teraform
+linex
+helm
