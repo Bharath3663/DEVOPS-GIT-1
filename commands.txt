@@ -8,3 +8,8 @@ git status
 git log
 git log --oneline
 git push origin main
+git pull origin main
+git branch
+git branch "branch name"
+git branch -d "branch name"
+git branch -D "branch name"
