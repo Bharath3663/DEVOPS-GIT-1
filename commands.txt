@@ -23,3 +23,8 @@ git rm "file name"
 git blame "file name"
 hi myname is bharath
 i am from andhra
+my current payroll company is tech mahindra
+after my btech i started working as java developer 
+I complited my btech in the year 2020
+i corrently i have 3 years of exprience
+at present i am trying to learn aws and devops
