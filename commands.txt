@@ -48,3 +48,13 @@ ansible
 teraform
 linex
 helm
+after devops in aws i would to learn about the topics
+EC2
+S3
+IAM
+VPC
+CIDR
+Snapshots
+Key Pairs
+teraform
+linux
