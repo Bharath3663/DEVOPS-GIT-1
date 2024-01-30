@@ -1,0 +1,5 @@
+git init
+git config --global user.name "user name"
+git config --global user.email "user email"
+git clone "repo url"
+git add "file name"
